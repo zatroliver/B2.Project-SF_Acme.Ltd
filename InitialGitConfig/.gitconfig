@@ -1,0 +1,16 @@
+[user]
+#Параметр name и email необходимо актуализировать самостоятельно
+        name = "Anatoly Akimov"
+        email = akimovanatoly99@gmail.com
+[init]
+        defaultBranch = main
+[alias]
+        co = commit
+        st = status
+        br = branch
+#Позволяет посмотреть историю коммитов:
+        history = log --graph
+#Позволяет исключить файл из индекса:
+        unadd = reset HEAD --
+#Позволяет посмотреть последний коммит:
+        last = log -1 HEAD --
