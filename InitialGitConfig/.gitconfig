@@ -1,6 +1,6 @@
 [user]
 # Параметр name и email необходимо актуализировать самостоятельно
-        name = "Anatoly Akimov"
+        name = Anatoly Akimov
         email = akimovanatoly99@gmail.com
 [init]
         defaultBranch = main
